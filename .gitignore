@@ -1,0 +1,4 @@
+app/node_modules
+app/.env
+app/.env.local
+app/.env.local.dev
