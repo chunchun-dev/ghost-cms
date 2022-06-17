@@ -1,0 +1,9 @@
+.sidebar {
+    background-color: #f1f1f1;
+}
+
+@media (max-width: 1040px) {
+    .sidebar {
+        display: none;
+    }
+}
